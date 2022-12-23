@@ -12,6 +12,7 @@ public class FirstClass {
         System.out.println("hello git project");
         System.out.println("hello git project");
         System.out.println("hello git project");
+        System.out.println("hello git clone project and update project");
     }
     public int test(int j){
         int i=0;
